@@ -1,4 +1,6 @@
-<h1 style="text-align: center">Hello<br>I'm Cheongpark!</h1>
+<div style="text-align: center">
+    <h1>Hello<br>I'm Cheongpark!</h1>
+</div>
 
 ![status](https://github-readme-stats.vercel.app/api?username=cheongpark&show_icons=true&theme=algolia)
 <br>

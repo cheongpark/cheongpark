@@ -1,2 +1,2 @@
-[![status](https://github-readme-stats.vercel.app/api?username=cheongpark&show_icons=true&theme=algolia)
-[![Langss](https://github-readme-stats.vercel.app/api/top-langs/?username=cheongpark&layout=compact&theme=algolia)
+![status](https://github-readme-stats.vercel.app/api?username=cheongpark&show_icons=true&theme=algolia)
+![Langss](https://github-readme-stats.vercel.app/api/top-langs/?username=cheongpark&layout=compact&theme=algolia)

@@ -4,7 +4,7 @@ I'm Cheongpark
 
 # Use Langs
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![M4L](https://img.shields.io/badge/Max8-00599C?style=flat-square&logo=Max&logoColor=white)
+![M4L](https://img.shields.io/badge/Max8-525252?style=flat-square&logo=Max&logoColor=white)
 
 ***
 <p>

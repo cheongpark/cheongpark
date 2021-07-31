@@ -2,10 +2,11 @@ Hello
 I'm Cheongpark
 =============
 
-use langs
-    
+Use Langs
+    ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 
+***
 <p>
     <img alt="Status" src="https://github-readme-stats.vercel.app/api?username=cheongpark&show_icons=true&theme=algolia">
     <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheongpark&layout=compact&theme=algolia">

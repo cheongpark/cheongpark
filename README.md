@@ -12,6 +12,7 @@ I'm Cheongpark
 ![Status](https://github-readme-stats.vercel.app/api?username=cheongpark&show_icons=true&theme=algolia)   
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheongpark&layout=compact&theme=algolia)   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkdpms0328)](https://solved.ac/profile/pkdpms0328)   
+![LeetCode Stats](https://leetcard.jacoblin.cool/cheongpark?theme=catppuccinMocha&font=Noto%20Sans%20Kharoshthi)   
 ***
 
 # Social
